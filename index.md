@@ -1,1 +1,1 @@
-ctfs walkthorugh, ccna  
+ctfs, ccna  
